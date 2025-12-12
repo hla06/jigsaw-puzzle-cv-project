@@ -1,0 +1,11 @@
+Jigsaw Puzzle Dataset/
+processed_images/
+__pycache__/
+*.log
+*.tmp
+.DS_Store
+.vscode/
+.env
+results/
+*.jpg 
+*.png 
